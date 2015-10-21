@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 gems:
   - jemoji
-  
+
 # Site settings
 title: "NamPNQ's Blog"
 description: > # this means to ignore newlines until "email:"
@@ -13,7 +13,7 @@ email: nampnq@gmail.com
 #blog logo
 logo: "//www.gravatar.com/avatar/7cf19173e360b0e328de258ea52c1f9a"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.jpg"
 
 name: 'Nam Pham'
 author: 'Nam Pham'
