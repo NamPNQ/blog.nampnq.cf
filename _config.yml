@@ -7,11 +7,11 @@ gems:
 # Site settings
 title: "NamPNQ's Blog"
 description: > # this means to ignore newlines until "email:"
-   Nothing is impossible
+   Thoughts, stories and ideas.
 
 email: nampnq@gmail.com
 #blog logo
-logo: "//www.gravatar.com/avatar/7cf19173e360b0e328de258ea52c1f9a?s=250&amp;d=mm&amp;r=x"
+logo: "//www.gravatar.com/avatar/7cf19173e360b0e328de258ea52c1f9a"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
